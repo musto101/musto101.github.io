@@ -10,6 +10,6 @@ My current research and employment interest are:
 * Explainable AI, expecially AI that can be explained to **clinicians**
 * Ethical AI
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/henry-musto-63352441/), [twitter](https://twitter.com/HenryMusto), or [email](mailto:musto101@googlemail.com)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/henry-musto-63352441/), [Twitter](https://twitter.com/HenryMusto), or [email](mailto:musto101@googlemail.com)
 
 

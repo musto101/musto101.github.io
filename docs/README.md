@@ -5,7 +5,7 @@
 
 I am an AI Researcher and Data Scientist with over seven years experience across multiple industries. I have worked in domains as diverse as games, digital marketing, pharma tech, and finance, and academia lending my expertise in all things data and AI. For a more complete summary of what I have been up to, see the [About me](about_me.md) section.
 
-###Contents
+### Contents
 
 * [About Me](about_me.md)
 * [Recommendations](recommendations.md)

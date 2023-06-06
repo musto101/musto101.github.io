@@ -1,3 +1,4 @@
+# About Me
 
 Hello again! Thanks for visiting my About Me section. I am a self-taught data guy who used Coursera and other free online learning resources to teach himself R, Python, and Data Viz whilst unemployed and volunteering at various research opportunities in the North-East of England. This led me to my first job in the private sector seven years ago and I have been a data guy in one form or another ever since. 
 
