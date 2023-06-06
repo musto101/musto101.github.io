@@ -1,4 +1,3 @@
-#Henry Musto CV 
 
 *Lead Data Scientist with 7+ years of commercial DS experience. Machine Learning (ML) Scientist with cross-industry experience.  Experienced team lead with strong communication, and  non-technical stakeholder management.*
 
